@@ -124,38 +124,62 @@ A few icons used for disk management.
 
 ![dmdskres.dll](/imgs/dmdskres.png)
 
-### 
+### 21. %systemroot%\system32\dsuiext.dll
 
+Icons related to network locations and services.
 
+![dsuiext.dll](/imgs/dsuiext.png)
 
-![REPLACEME.dll](/imgs/REPLACEME.png)
+### 22. %systemroot%\system32\mstscax.dll
 
-### 
+Icons used for remote desktop connection.
 
+![mstscax.dll](/imgs/mstscax.png)
 
+### 23. %systemroot%\system32\wiashext.dll
 
-![REPLACEME.dll](/imgs/REPLACEME.png)
+Icons used for imaging hardware.
 
-### 
+![wiashext.dll](/imgs/wiashext.png)
 
+### 24. %systemroot%\system32\comres.dll
 
+Some general status icons.
 
-![REPLACEME.dll](/imgs/REPLACEME.png)
+![comres.dll](/imgs/comres.png)
 
-### 
+### 25. %systemroot%\system32\mstsc.exe
 
+A few icons used for system monitoring and configuration.
 
+![mstsc.dll](/imgs/mstsc.png)
 
-![REPLACEME.dll](/imgs/REPLACEME.png)
+### 26. Others containing only a handful of icons (all under %systemroot%\system32\)
 
-### 
+#### actioncentercpl.dll
 
+Icons used in action center, notably including red, yellow, and green traffic lights.
 
+#### aclui.dll
 
-![REPLACEME.dll](/imgs/REPLACEME.png)
+A few checks, crosses, and i-in-circles
 
-### 
+#### autoplay.dll
 
+One autoplay icon.
 
+#### comctl32.dll
 
-![REPLACEME.dll](/imgs/REPLACEME.png)
+Legacy info, warning, and error icons.
+
+#### xwizards.dll
+
+One software install icon.
+
+#### ncpa.cpl
+
+One network folder icon.
+
+#### url.dll
+
+A few random network related icons.
