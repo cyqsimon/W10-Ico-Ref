@@ -1,6 +1,6 @@
-# W10-Ico-Ref
+# Windows 10 Native Icons Reference Sheet
 
-A reference sheet of where Windows 10 native icons are located
+A reference sheet of Windows 10 native icons and where they are located.
 #### Original Source
 https://www.digitalcitizen.life/where-find-most-windows-10s-native-icons
 
