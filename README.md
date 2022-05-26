@@ -1,3 +1,7 @@
+### Archival Notice
+
+I now daily-drive Linux so this reference sheet is no longer very useful to me, which is why I decided to archive it. All information here is of course, still valid.
+
 # Windows 10 Native Icons Reference Sheet
 
 A reference sheet of Windows 10 native icons and where they are located.
